@@ -1,2 +1,2 @@
 # arXiv-research
-Deep-AI Library of Machine-Learning and Artificial Intelligence documentation 
+Deep-AI and arXiv Research Library of Machine-Learning and Artificial Intelligence Documentation 
